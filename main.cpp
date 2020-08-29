@@ -107,7 +107,7 @@ int main(int argc, char **argv)
     view.setHeight(480);
     view.engine()->addImportPath("qrc:/imports/");
 
-    bool sportsCar = false;
+    bool sportsCar = true;
     if (app.arguments().count() > 1)
         sportsCar = app.arguments().at(1) == "sports";
 
