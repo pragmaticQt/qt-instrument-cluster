@@ -2,6 +2,8 @@
 
 ![Alt text](demo.gif?raw=true "1")
 
+![Alt text](sportscar.gif?raw=true "1")
+
 The project is part of a Fog Network Simulator which tries to simulate the use case of a vehicle collision on a public road and prevent further incidents by sending alerts to other drivers in the vicinity.
 
 The Instrument cluster is the visualisation part of the simulator which displays internal vehicle parameters which are sent on the CAN Bus network and acts as a head-unit which communicates with a Fog Network, receiving status signals and displays them appropriately.
